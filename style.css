@@ -1,0 +1,27 @@
+/*
+
+  //\\    //\\    //\\    //\\    //\\    Nathan Mull
+ //  \\  //  \\  //  \\  //  \\  //  \\   Copyright 2025
+//    \\//    \\//    \\//    \\//    \\  All rights reserved
+
+*/
+
+body {
+    margin: 3em;
+    max-width: 700px;
+    line-height: 1.4;
+}
+
+a:link, a:visited {
+    color: #1da4cc
+}
+
+tr, td, th {
+    border: 1px solid black;
+    padding: 0.3em;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
