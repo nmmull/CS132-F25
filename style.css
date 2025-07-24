@@ -13,12 +13,21 @@ a:link, a:visited {
     color: #1da4cc;
 }
 
-tr, td, th {
-    border: 1px solid black;
+.week {
+  border-top: 1px solid black;
+}
+
+th {
+  text-align: left;
+}
+
+td, th {
     padding: 0.3em;
 }
 
 table {
     width: 100%;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
     border-collapse: collapse;
 }
