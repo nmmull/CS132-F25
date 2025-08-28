@@ -1,4 +1,4 @@
-\contentsline {chapter}{\numberline {1}Week 0 TODO list}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {1}Week 0 To-Do list}{2}{chapter.1}%
 \contentsline {chapter}{\numberline {2}General Information}{3}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Prerequisites}{4}{section.2.1}%
 \contentsline {section}{\numberline {2.2}Learning Objectives}{4}{section.2.2}%
