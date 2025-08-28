@@ -1,0 +1,23 @@
+\contentsline {chapter}{\numberline {1}Week 0 TODO list}{2}{chapter.1}%
+\contentsline {chapter}{\numberline {2}General Information}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Prerequisites}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Learning Objectives}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Course Structure}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Resources}{5}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Evaluation}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Assignments}{7}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Labs}{8}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Quizzes}{8}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Midterm Exam}{8}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Final Exam}{8}{section.3.5}%
+\contentsline {chapter}{\numberline {4}Policies}{9}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Diversity Statement}{9}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Disability Statement}{9}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Sexual Misconduct}{9}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Academic Integrity}{9}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Generative AI}{10}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Additional Attendance Policies}{11}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Additional Grading Policies}{11}{section.4.7}%
+\contentsline {chapter}{\numberline {5}Closing Remarks}{13}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Course Agreement}{13}{section.5.1}%
+\contentsline {section}{\numberline {5.2}University Resources}{13}{section.5.2}%
