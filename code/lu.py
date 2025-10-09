@@ -15,30 +15,59 @@ a = np.array(
 l = np.eye(4)
 u = np.copy(a)
 
-# Row Operations
 e1 = np.eye(4)
-e1[1,:] += e1[0,:]
+e1[1] += e1[0]
 u = e1 @ u
 l = l @ np.linalg.inv(e1)
 
 e2 = np.eye(4)
-e2[2,:] -= 2 * e2[0,:]
+e2[2] -= 2 * e2[0]
 u = e2 @ u
 l = l @ np.linalg.inv(e2)
 
 e3 = np.eye(4)
-e3[3,:] += 3 * e3[0,:]
+e3[3] += 3 * e3[0]
 u = e3 @ u
 l = l @ np.linalg.inv(e3)
 
-u[2,:] += 5 * u[1,:]
+# e4 = np.eye(4)
+# e4[2] += 5 * e4[1]
+# u = e4 @ u
+# l = l @ np.linalg.inv(e4)
+
+u[2] += 5 * u[1]
 l[2, 1] = -5
 
-u[3,:] -= 8 * u[1,:]
+u[3] -= 8 * u[1]
 l[3, 1] = 8
 
-u[3,:] -= 3 * u[2,:]
+u[3] -= 3 * u[2]
 l[3, 2] = 3
+
+# Row Operations
+# e1 = np.eye(4)
+# e1[1,:] += e1[0,:]
+# u = e1 @ u
+# l = l @ np.linalg.inv(e1)
+
+# e2 = np.eye(4)
+# e2[2,:] -= 2 * e2[0,:]
+# u = e2 @ u
+# l = l @ np.linalg.inv(e2)
+
+# e3 = np.eye(4)
+# e3[3,:] += 3 * e3[0,:]
+# u = e3 @ u
+# l = l @ np.linalg.inv(e3)
+
+# u[2,:] += 5 * u[1,:]
+# l[2, 1] = -5
+
+# u[3,:] -= 8 * u[1,:]
+# l[3, 1] = 8
+
+# u[3,:] -= 3 * u[2,:]
+# l[3, 2] = 3
 
 
 
